@@ -58,7 +58,7 @@ user2.hourlyWage = 0;
 //INPUT SOME FAKE EMPLOYEE VALUES INTO A DOCUMENT
 document.getElementById("1").innerHTML = user1.name_only() + " lives at " + user1.address() + " and makes $" + user1.hourlyWage + " an hour.";
 document.getElementById("2").innerHTML = user2.name_only() + " lives at " + user2.address() + " and makes $" + user2.hourlyWage + " an hour.";
-//INSTANTIATE A DEFAULT EMPLOYEE
+//CREATE AN OBJECT TO PASS INTO A FUNCTION THAT CREATES EMPLOYEES
 var newperson = { firstname: "Gary", lastname: "Sinese" };
 //INSTANTIATES AN EMPLOYEE OBJECT USING INPUTS THAT CONFORM TO THE CONTRACT OF THE EMPLOYEEOPTIONS INTERFACE ABOVE
 function MakeEmployee(newobject) {

@@ -75,7 +75,7 @@ document.getElementById("1").innerHTML = user1.name_only() + " lives at " + user
 document.getElementById("2").innerHTML = user2.name_only() + " lives at " + user2.address()+ " and makes $"+user2.hourlyWage + " an hour.";
 
 
-//INSTANTIATE A DEFAULT EMPLOYEE
+//CREATE AN OBJECT TO PASS INTO A FUNCTION THAT CREATES EMPLOYEES
 let newperson = {firstname: "Gary", lastname: "Sinese"};
 
 //CREATE AN EMPLOYEE INTERFACE ESTABLISHING BASELINE VARIABLES TO BE USED TO CREATE AN EMPLOYEE OBJECT
