@@ -1,0 +1,125 @@
+////////////////////////////////////////////////////////////////////////////////////////
+//DATA COLLECTION PRACTICE EXERCISES
+
+var groceries = ["pop tarts", "ramen noodles", "chips", "salsa", "coffee"];
+groceries.push("fruit loops");
+groceries[4] = "fair trade coffee"
+groceries.splice(2,2,"rice","beans");
+var shoppingcart = [];
+shoppingcart.push(groceries.pop());
+groceries.push("fruit loops");
+shoppingcart[0] = groceries.shift();
+
+do{
+shoppingcart.push(groceries.shift())
+}
+while(groceries.length > 0);
+
+shoppingcart.sort();
+shoppingcart.reverse();
+var printme = []
+printme = shoppingcart.toString();
+console.log(printme);
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+//GRATUITY CALCULATOR
+var billAmount = 100;
+
+function gratuity(input){
+	var total = input * .2;
+	return total;
+};
+
+function totalWithGrat(input){
+	var total = input + gratuity(input);
+	return total;
+};
+
+console.log("Your total including gratuity is: "+totalWithGrat(billAmount));
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////
+//PICTURE SLIDESHOW
+photoList = ["image1","image2","image3","image4","image5","image6","image7"];
+
+var currentPhotoIndex = 0;
+
+function nextPhoto(){
+	if((currentPhotoIndex + 1) == photoList.length){
+		console.log("End of slideshow");
+	}else{
+		currentPhotoIndex++;
+		console.log("Current photo: "+photoList[currentPhotoIndex]);
+	};
+};
+
+function prevPhoto(){
+	if(currentPhotoIndex == 0){
+		console.log("Beginning of slideshow")
+	}else{
+		currentPhotoIndex--;
+		console.log("Current photo: "+photoList[currentPhotoIndex]);
+	};
+};
+
+function getCurrentPhoto(){
+	console.log("Current photo: "+photoList[currentPhotoIndex]);
+};
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+//PICTURE SLIDESHOW IN AN OBJECT
+var slideshow = {
+//
+
+photoList: ["image1","image2","image3","image4","image5","image6","image7"],
+
+currentPhotoIndex: 0,
+
+nextPhoto: function nextPhoto(){
+	if((this.currentPhotoIndex + 1) == this.photoList.length){
+		console.log("End of slideshow");
+	}else{
+		this.currentPhotoIndex++;
+		console.log("Current photo: "+this.photoList[this.currentPhotoIndex]);
+	};
+},
+
+prevPhoto: function prevPhoto(){
+	if(this.currentPhotoIndex == 0){
+		console.log("Beginning of slideshow")
+	}else{
+		this.currentPhotoIndex--;
+		console.log("Current photo: "+this.photoList[this.currentPhotoIndex]);
+	};
+},
+
+getCurrentPhoto: function getCurrentPhoto(){
+	console.log("Current photo: "+this.photoList[this.currentPhotoIndex]);
+}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

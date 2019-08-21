@@ -1,0 +1,20 @@
+1) Get the header element
+var getheader = document.getElementsByTagName('header');
+
+2) Get all the section elements
+var allsections = document.getElementsByTagName('section');
+
+3) Get the section element with class="current"
+var current = document.getElementsByClassName('current');
+
+4) Get the section that comes after the current section
+var next = current.nextElementSibling;
+
+5) Get the h2 node from the section before the 'current' section
+h2prevprev = current.previousElementSibling.querySelector('h2');
+
+6) Get the div that contains the section that has a h2 with a class of 'highlight'
+var gethighlight = document.getElementsByClassName('highlight');
+var getdiv = gethighlight[0].parentElement.parentElement;
+
+7) Get all the sections that contain a H2 (using a single statement);

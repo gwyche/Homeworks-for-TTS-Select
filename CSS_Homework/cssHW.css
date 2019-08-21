@@ -1,0 +1,57 @@
+
+
+.box{
+    height: 600px;
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+
+#red{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border-top-left-radius: 300px 300px;
+    position: relative;
+    top: 0%;
+    left: 0%;
+}
+
+#yellow{
+    background-color:yellow;
+    height: 300px;
+    width: 300px;
+    border-top-right-radius: 300px 300px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
+
+#blue{
+    background-color:blue;
+    height: 300px;
+    width: 300px;
+    border-bottom-left-radius: 300px 300px;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+}
+
+#green{
+    background-color:green;
+    height: 300px;
+    width: 300px;
+    border-bottom-right-radius: 300px 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+h4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+

@@ -1,0 +1,53 @@
+/////////////////////////////////////////////////////////////////
+//IF STATEMENTS
+//Declare and initialize variable
+var count = 44;
+
+//If statement checks if variable "count is greater than 20
+if ( count > 20 ){
+	console.log("Count is large!");
+}
+
+//If statement checks if variable "count is greater than 50
+if ( count > 50 ){
+	console.log("Count is VERY large!");
+}
+
+//Print completion message to console
+console.log("Finished checking count.");
+
+
+
+/////////////////////////////////////////////////////////////////
+//SUM THE VALUES IN AN ARRAY
+//Declare number array
+var myNumber = [32,53,93,57,11,84,66,29,73,57];
+
+//Initialize Variable at 0
+var sum = 0;
+
+//Method sums all of the values in the array nyNumber
+function sum_up(){
+	for(var i = 0; i < myNumber.length; i++){
+		sum = sum + myNumber[i];
+	};
+	console.log(sum);
+};
+
+//Call summation function
+sum_up();
+
+
+
+
+//ALTERNATE SOLUTION//////////////////////////////////////////////
+
+var myNumber = [32,53,93,57,11,84,66,29,73,57];
+
+var sum = 0;
+
+for(var random_name of myNumber){
+	sum = sum + random_name;
+};
+
+console.log(sum);
