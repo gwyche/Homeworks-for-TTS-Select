@@ -8,3 +8,23 @@
 [0820/190237.220:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
 [0820/190237.222:ERROR:exception_snapshot_win.cc(98)] thread ID 4584 not found in process
 [0820/190237.222:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0822/054345.688:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0822/054345.690:ERROR:exception_snapshot_win.cc(98)] thread ID 11888 not found in process
+[0822/054345.690:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0822/151826.574:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0822/151826.575:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0822/151826.575:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0822/151826.575:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0823/100657.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.204:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0823/100657.205:ERROR:exception_snapshot_win.cc(98)] thread ID 19400 not found in process

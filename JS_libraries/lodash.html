@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <title>Lodash Lab</title>
+        <style>
+        </style>
+    </head>
+    <body>
+        <p id="para">Lodash Testing</p>
+        <script src="jquery-3.3.1.min.js"></script>
+        <script src="lodash.js"></script>
+
+        <script>
+
+            var arr = [1, 4, 5, 12, 55, 24, 69, 13, 5, 8, 12];
+            var theObj = {"id": 1, "name": "Tom Henry", "state": "KS"};
+            var arrObj = [
+            {"id": 1, "name": "Tom Henry", "state": "TX"},
+            {"id": 2, "name": "Sally Newman", "state": "FL"},
+            {"id": 3, "name": "Ryan Busch", "state": "CO"},
+            {"id": 4, "name": "Brenda Miller", "state": "KS"},
+            {"id": 5, "name": "Ed Cage", "state": "NC"},
+            {"id": 6, "name": "Will Turner", "state": "KS"},
+            {"id": 7, "name": "Dawn Williams", "state": "NC"},
+            {"id": 8, "name": "Sean Cunningham", "state": "NC"},
+            {"id": 9, "name": "Ted Hardy", "state": "TX"},
+            {"id": 10, "name": "Bruce Matthis", "state": "FL"},
+            {"id": 11, "name": "Billy Smith", "state": "FL"},
+            {"id": 12, "name": "Clara Jarvis", "state": "TX"},
+            {"id": 13, "name": "Cindy Fisher", "state": "CO"},
+            {"id": 14, "name": "Gino Donovan", "state": "CO"},
+            {"id": 15, "name": "Nancy Curtis", "state": "NC"}
+            ];
+
+            //Calls the chunkTest function
+            $( document ).ready(function() {
+                chunkTest();
+                });
+                
+                function chunkTest()
+                {
+                    console.log("Chunk test");
+                    var newArr = _.chunk(arr, 3);
+                    console.log(newArr);
+
+                    _.forEach(newArr, function(value) {
+                        console.log(value);
+                        for(var i =0;i<value.length;i++){
+                            console.log(value[i]);
+                        }
+                    });
+
+                    //Create a series of 10 element long arrays containing numbers from 1 to 20
+                    a1=_.range(1, 20);
+                    n1=_.chunk(a1, 10);
+                    _.forEach(n1, function(value) {
+                        console.log(value);
+                        for(var i =0;i<value.length;i++){
+                            console.log(value[i]);
+                        }
+                    });
+                    
+                    //Create a series of 20 element long arrays containing numbers from 50 to 100
+                    a2=_.range(50, 100);
+                    n2=_.chunk(a2, 20);
+                    _.forEach(n2, function(value) {
+                        console.log(value);
+                        for(var i =0;i<value.length;i++){
+                            console.log(value[i]);
+                        }
+                    });
+
+                    //Create a series of 20 element long arrays containing even numbers from 2 to 100
+                    a3=_.range(2, 100, 2);
+                    n3=_.chunk(a3, 20);
+                    _.forEach(n3, function(value) {
+                        console.log(value);
+                        for(var i =0;i<value.length;i++){
+                            console.log(value[i]);
+                        }
+                    });
+
+                    //Create a series of 20 element long arrays containing odd numbers from 1 to 100
+                    a4=_.range(1, 100, 2);
+                    n4=_.chunk(a4, 20);
+                    _.forEach(n4, function(value) {
+                        console.log(value);
+                        for(var i =0;i<value.length;i++){
+                            console.log(value[i]);
+                        }
+                    });
+
+                    //Create a series of 100 element long arrays containing numbers from 1 to 500
+                    a5=_.range(1, 500, 20);
+                    n5=_.chunk(a5, 100);
+                    _.forEach(n5, function(value) {
+                        console.log(value);
+                        for(var i =0;i<value.length;i++){
+                            console.log(value[i]);
+                        }
+                    });
+
+                    
+
+                }
+        </script>
+
+    </body>
+</html>
