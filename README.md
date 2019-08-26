@@ -20,7 +20,7 @@
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
 
 
-### ANGULAR PROJECT PART 2 SIDE ASSIGNMENT
+##### ANGULAR PROJECT PART 2 SIDE ASSIGNMENT
 
 [TOUR OF HEROES EXERCISE FROM ANGULAR.IO](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/Hero_Game/angular-tour-of-heroes)
 
