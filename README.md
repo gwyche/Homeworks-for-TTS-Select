@@ -8,7 +8,7 @@
 [PART 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw1)
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/Angular_basics_HW.pdf)
-
+//
 
 [PART 2](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw2)
 
@@ -19,7 +19,7 @@
 [TOUR OF HEROES EXERCISE FROM ANGULAR.IO](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/Hero_Game/angular-tour-of-heroes)
 
 [INSTRUCTIONS](https://angular.io/tutorial)
-
+//
 
 [PART 3](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3)
 
