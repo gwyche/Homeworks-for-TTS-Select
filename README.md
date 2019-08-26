@@ -1,4 +1,4 @@
-#### UNRELATED CODING PROJECTS ####
+#### UNRELATED PROJECTS ####
 [RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MACHINE LEARNING BLOG](https://gwyche.wordpress.com) | [SPRING GROUP PROJECT](https://github.com/ttsbluetesla/spring_dealership_project)
 
 # THIS IS MY COURSEWORK FOR TECH TALENT SELECT
