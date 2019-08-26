@@ -1,5 +1,5 @@
 #### UNRELATED CODING PROJECTS ####
-[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MY MACHINE LEARNING BLOG](https://gwyche.wordpress.com) | [CAR DEALERSHIP SPRING GROUP ASSIGNMENT](https://github.com/ttsbluetesla/spring_dealership_project)
+[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MACHINE LEARNING BLOG](https://gwyche.wordpress.com) | [SPRING GROUP PROJECT](https://github.com/ttsbluetesla/spring_dealership_project)
 
 # THIS IS MY COURSEWORK FOR TECH TALENT SELECT
 
