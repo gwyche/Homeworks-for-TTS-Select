@@ -1,5 +1,5 @@
 ### UNRELATED CODING PROJECTS ###
-[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MY BLOG](https://gwyche.wordpress.com)
+[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MY MACHINE LEARNING BLOG](https://gwyche.wordpress.com)
 
 # THIS IS MY COURSEWORK FOR TECH TALENT SELECT
 
