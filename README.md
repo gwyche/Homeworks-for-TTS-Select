@@ -37,6 +37,7 @@
 ### CSS ASSIGNMENT
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/CSS_Homework)
+[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/CSS_Homework/CSS%20Homework.pdf)
 
 
 ### TYPESCRIPT ASSIGNMENT
