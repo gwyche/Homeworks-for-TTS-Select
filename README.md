@@ -4,15 +4,15 @@
 
 [PART 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw1)
 
-[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/Angular_basics_HW.pdf)
+[PART 1 INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/Angular_basics_HW.pdf)
 
 [PART 2](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw2)
 
-[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw2/Angular_Services_HW.pdf)
+[PART 2 INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw2/Angular_Services_HW.pdf)
 
 [PART 3](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3)
 
-[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
+[PART 3 INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
 
 ### ANGULAR SIDE PROJECT 
 
