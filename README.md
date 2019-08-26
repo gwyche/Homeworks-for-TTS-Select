@@ -26,23 +26,23 @@
 
 [INSTRUCTIONS](https://angular.io/tutorial)
 
-### BOOTSTRAP & JQUERY PROJECT
+### BOOTSTRAP & JQUERY ASSIGNMENT
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/BootStrap%20and%20JQuery)
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/BootStrap%20and%20JQuery/bootstrap_project_homework.pdf)
 
-### CSS HOMEWORK
+### CSS ASSIGNMENT
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/CSS_Homework)
 
 
-### TYPESCRIPT HOMEWORK
+### TYPESCRIPT ASSIGNMENT
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/Typescript_HW)
 
 
-### RANDOM CLASS PRACTICE WORK
+### RANDOM IN-CLASS PRACTICE WORK
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/Random_Practice_Exercises)
 
