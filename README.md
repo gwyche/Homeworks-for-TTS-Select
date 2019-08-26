@@ -14,17 +14,17 @@
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw2/Angular_Services_HW.pdf)
 
-
-[PART 3](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3)
-
-[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
-
-
 ##### ANGULAR PROJECT PART 2 SIDE ASSIGNMENT
 
 [TOUR OF HEROES EXERCISE FROM ANGULAR.IO](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/Hero_Game/angular-tour-of-heroes)
 
 [INSTRUCTIONS](https://angular.io/tutorial)
+
+
+[PART 3](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3)
+
+[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
+
 
 ### BOOTSTRAP & JQUERY ASSIGNMENT
 
