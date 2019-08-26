@@ -1,0 +1,36 @@
+<div style="text-align:center">
+        <!--{{diagnostic}}-->
+    <!--<app-onboarding></app-onboarding>-->
+
+    <div class="container">
+        <h1>Hero Form</h1>
+        
+        <form (ngSubmit)="onSubmit()" #Onboarding="ngForm">
+            <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" [(ngModel)]="guy.name" name="name">
+            <!--{{guy.name}}-->
+            </div>
+            
+            <button type="submit" class="btn btn-success" (click)="addToList()">Add Name</button>
+        </form>
+    </div>
+
+
+
+    <h2>People Stored</h2>
+    <h5>{{list[0].name}}</h5>
+    <h5>{{list[1].name}}</h5>
+    <h5>{{list[2].name}}</h5>
+    <h5>{{list[3].name}}</h5>
+    <h5>{{list[4].name}}</h5>
+    <h5>{{list[5].name}}</h5>
+    <h5>{{list[6].name}}</h5>
+    <h5>{{list[7].name}}</h5>
+    <h5>{{list[8].name}}</h5>
+    <h5>{{list[9].name}}</h5>
+    <h5>{{list[10].name}}</h5>
+
+
+</div>
+<router-outlet></router-outlet>
