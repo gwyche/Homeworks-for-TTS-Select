@@ -1,7 +1,5 @@
-
-UPLOADED MACHINE LEARNING PROJECTS | PROGRAMMING BLOG ARTICLES
-
-[RADIO ASTRONOMY CLASSIFIER](https://github.com/gwyche/nn_pulsar_classifier) | [OVERTHINK](https://gwyche.wordpress.com)
+### UNRELATED CODING PROJECTS ###
+[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MY BLOG](https://gwyche.wordpress.com)
 
 # THIS IS MY COURSEWORK FOR TECH TALENT SELECT
 
