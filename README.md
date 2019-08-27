@@ -1,5 +1,5 @@
-#### UNRELATED CODING PROJECTS ####
-[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MY MACHINE LEARNING BLOG](https://gwyche.wordpress.com)
+#### MY OTHER COOL CODING STUFF ####
+[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MACHINE LEARNING BLOG](https://gwyche.wordpress.com) | [SPRING GROUP PROJECT](https://github.com/ttsbluetesla/spring_dealership_project)
 
 # THIS IS MY COURSEWORK FOR TECH TALENT SELECT
 
@@ -37,6 +37,8 @@
 ### CSS ASSIGNMENT
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/CSS_Homework)
+
+[INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/CSS_Homework/CSS%20Homework.pdf)
 
 
 ### TYPESCRIPT ASSIGNMENT
