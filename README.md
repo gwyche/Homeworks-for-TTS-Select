@@ -50,7 +50,7 @@ PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/maste
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/Typescript_HW)
 
 
-### RANDOM IN-CLASS PRACTICE WORK
+### IN-CLASS JAVASCRIPT PRACTICE WORK
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/Random_Practice_Exercises)
 
