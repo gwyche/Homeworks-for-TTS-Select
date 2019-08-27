@@ -24,7 +24,7 @@
 //
 
 PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3)
-PART 3 [SECTION 2](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3_part2/hw3p2)
+[SECTION 2](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw3_part2/hw3p2)
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
 
