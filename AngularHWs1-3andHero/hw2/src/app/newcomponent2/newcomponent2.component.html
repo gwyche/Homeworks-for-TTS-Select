@@ -1,13 +1,54 @@
-<div style="text-align:center">
-    <h2>Injected Data:</h2>
-    <h4>{{guy.name}}</h4>
-    <h4>{{guy.address}}</h4>
-    <h4>{{guy.phone}}</h4>
+<body class="main">
+    <div class="main_inner">
+        <div class="container">
+            <h2>Current User</h2>         
+            <table class="table table-dark">
+                <thead>
+                    <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Telephone</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <td>{{guy.name}}</td>
+                    <td>{{guy.address}}</td>
+                    <td>{{guy.phone}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-    <h3>Other People Stored</h3>
-    <h5>{{list[0].name}}</h5>
-    <h5>{{list[1].name}}</h5>
-    <h5>{{list[2].name}}</h5>
+        <div class="container">
+                <h2>Other Users On Record</h2>         
+                <table class="table table-dark">
+                <thead>
+                    <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Telephone</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <td>{{list[0].name}} </td>
+                    <td>{{list[0].address}}</td>
+                    <td>{{list[0].phone}}</td>
+                    </tr>
+                    <tr>
+                    <td>{{list[1].name}} </td>
+                    <td>{{list[1].address}}</td>
+                    <td>{{list[1].phone}}</td>
+                    </tr>
+                    <tr>
+                    <td>{{list[2].name}} <span class="badge badge-warning">New</span></td>
+                    <td>{{list[2].address}}</td>
+                    <td>{{list[2].phone}}</td>
+                    </tr>
+                </tbody>
+                </table>
+        </div>
+    </div>
+</body>
 
-</div>
-<router-outlet></router-outlet>
