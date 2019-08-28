@@ -9,7 +9,8 @@ Hello friend. You've stumbled upon the readme for my coding bootcamp git reposit
 ### ANGULAR PROJECT 
 
 [PART 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw1)
-[Screencap](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/ScreencapA1.png)
+
+[SCREENCAP](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/ScreencapA1.png)
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/Angular_basics_HW.pdf)
 
