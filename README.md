@@ -7,10 +7,9 @@ Hello friend. You've stumbled upon the readme for my coding bootcamp git reposit
 
 
 ### ANGULAR PROJECT 
+*[LIVE PROJECT](https://gwyche.github.io/angular_demonstration/)*
 
 [PART 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw1)
-
-[SCREENCAP](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/ScreencapA1.png)
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw1/Angular_basics_HW.pdf)
 
@@ -20,7 +19,8 @@ Hello friend. You've stumbled upon the readme for my coding bootcamp git reposit
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw2/Angular_Services_HW.pdf)
 
-##### ANGULAR PROJECT PART 2 SIDE ASSIGNMENT
+##### ANGULAR PROJECT PART 2 SIDE ASSIGNMENT - TOUR OF HEROES TUTORIAL APP
+*[Live Project](https://gwyche.github.io/tour_of_heroes_angular_app/dashboard)*
 
 [TOUR OF HEROES EXERCISE FROM ANGULAR.IO](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/Hero_Game/angular-tour-of-heroes)
 
