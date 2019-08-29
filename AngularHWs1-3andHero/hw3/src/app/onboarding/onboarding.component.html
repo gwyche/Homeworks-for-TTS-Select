@@ -1,9 +1,7 @@
-<div style="text-align:center">
-        <!--{{diagnostic}}-->
-    <!--<app-onboarding></app-onboarding>-->
+<div class="main">
 
-    <div class="container">
-        <h1>Hero Form</h1>
+    <div class="container main_inner">
+        <h1>User Form</h1>
         
         <form (ngSubmit)="onSubmit()" #Onboarding="ngForm">
             <div class="form-group">
@@ -12,24 +10,72 @@
             <!--{{guy.name}}-->
             </div>
             
-            <button type="submit" class="btn btn-success" (click)="addToList()">Add Name</button>
+            <button type="submit" class="btn btn-dark submission" (click)="addToList()">Add Name</button>
         </form>
-    </div>
-
-
-
-    <h2>People Stored</h2>
-    <h5>{{list[0].name}}</h5>
-    <h5>{{list[1].name}}</h5>
-    <h5>{{list[2].name}}</h5>
-    <h5>{{list[3].name}}</h5>
-    <h5>{{list[4].name}}</h5>
-    <h5>{{list[5].name}}</h5>
-    <h5>{{list[6].name}}</h5>
-    <h5>{{list[7].name}}</h5>
-    <h5>{{list[8].name}}</h5>
-    <h5>{{list[9].name}}</h5>
-    <h5>{{list[10].name}}</h5>
+        <br>
+        <h2>Other Users On Record</h2>         
+        <table class="table table-dark">
+        <thead>
+            <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Telephone</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>{{list[0].name}} </td>
+            <td>{{list[0].address}}</td>
+            <td>{{list[0].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[1].name}} </td>
+            <td>{{list[1].address}}</td>
+            <td>{{list[1].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[2].name}} </td>
+            <td>{{list[2].address}}</td>
+            <td>{{list[2].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[3].name}} </td>
+            <td>{{list[3].address}}</td>
+            <td>{{list[3].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[4].name}} </td>
+            <td>{{list[4].address}}</td>
+            <td>{{list[4].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[5].name}} </td>
+            <td>{{list[5].address}}</td>
+            <td>{{list[5].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[6].name}} </td>
+            <td>{{list[6].address}}</td>
+            <td>{{list[6].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[7].name}} </td>
+            <td>{{list[7].address}}</td>
+            <td>{{list[7].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[8].name}} </td>
+            <td>{{list[8].address}}</td>
+            <td>{{list[8].phone}}</td>
+            </tr>
+            <tr>
+            <td>{{list[9].name}} </td>
+            <td>{{list[9].address}}</td>
+            <td>{{list[9].phone}}</td>
+            </tr>
+        </tbody>
+        </table>
+</div>
 
 
 </div>

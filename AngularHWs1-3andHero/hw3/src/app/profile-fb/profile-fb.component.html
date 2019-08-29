@@ -1,39 +1,37 @@
-<div style="text-align:center">
+<div class="main">
+        <div class="headers">
+                <h2>Button Changes the Contents of All the Fields To Predefined Values</h2>
+        </div>  
+        <div class="container main_inner">
 
-        <form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
-    
-                <label>
-                First Name:
-                <input type="text" formControlName="firstName">
-                </label>
-            
-                <label>
-                Last Name:
-                <input type="text" formControlName="lastName">
-                </label>
+                <form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+  
+                        <h2>Current User</h2>         
+                        <table class="table table-dark">
+                            <thead>
+                                <tr>
+                                        <th>First Name</th>
+                                        <th>Last Name</th>
+                                        <th>Street</th>
+                                        <th>City</th>
+                                        <th>State</th>
+                                        <th>Zip</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                        <td><input type="text" formControlName="firstName"></td>
+                                        <td><input type="text" formControlName="lastName"></td>
+                                        <td><input type="text" formControlName="street"></td>
+                                        <td><input type="text" formControlName="city"></td>
+                                        <td><input type="text" formControlName="state"></td>
+                                        <td><input type="text" formControlName="zip"></td>
+                                </tr>
+                            </tbody>
+                        </table>
 
-                <label>
-                Street:
-                <input type="text" formControlName="street">
-                </label>
+                </form>
+                <button class="btn btn-dark submission" (click)="arbitraryNames()">Change Names in the Model</button>
 
-                <label>
-                City:
-                <input type="text" formControlName="city">
-                </label>
-
-                <label>
-                State:
-                <input type="text" formControlName="state">
-                </label>
-
-                <label>
-                Zip:
-                <input type="text" formControlName="zip">
-                </label>
-                
-                <button type="submit">Submit</button>
-        </form>
-        <button (click)="arbitraryNames()">Add Names to Model</button>
-
+        </div>
 </div>

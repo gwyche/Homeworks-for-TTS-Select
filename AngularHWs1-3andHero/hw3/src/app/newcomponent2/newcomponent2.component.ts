@@ -16,6 +16,8 @@ export class Newcomponent2Component implements OnInit {
 
   guy: person;
   list: peoplelist; 
+
+  
  
 
   //Inject a PersonService named humanservice

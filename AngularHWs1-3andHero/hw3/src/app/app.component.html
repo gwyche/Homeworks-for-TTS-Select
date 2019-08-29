@@ -1,15 +1,28 @@
 <div style="text-align:center">
-  <h1>{{ title }}</h1>
   <nav>
-    <a routerLink="/home">Home</a>
-    <a routerLink="/c1">Pg 2</a>
-    <a routerLink="/c2">Pg 3</a>
-    <a routerLink="/on">Onboarding</a>
-    <a routerLink="/re">ReactiveEdit</a>
-    <a routerLink="/pe">ProfileEdit</a>
-    <a routerLink="/fb">FormBuilder</a>
+      <button class="btn btn-dark">
+          <a routerLink="/home">HOME</a>
+      </button>
+      <button class="btn btn-dark">
+            <a routerLink="/c2">DASHBOARD</a>
+      </button>
+      <button class="btn btn-dark">
+        <a routerLink="/on">ONBOARDING</a>
+    </button>
+      <button class="btn btn-dark">
+        <a routerLink="/c1">LOCATION</a>
+    </button>
+      <button class="btn btn-dark">
+        <a routerLink="/re">REACTIVE FORM</a>
+    </button>
+    <button class="btn btn-dark">
+          <a routerLink="/pe">TEMPLATE FORM</a>
+    </button>
+    <button class="btn btn-dark">
+        <a routerLink="/fb">FORM BUILDER</a>
+    </button>
 
-</nav>
+  </nav>
 </div>
 <router-outlet></router-outlet>
 
