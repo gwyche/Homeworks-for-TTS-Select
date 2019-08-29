@@ -7,7 +7,8 @@ Hello friend. You've stumbled upon the readme for my coding bootcamp git reposit
 
 
 ### ANGULAR PROJECT 
-*[Live Project](https://gwyche.github.io/angular_demonstration/)*
+*[Live Complete Project](https://gwyche.github.io/angular_demonstration/)*
+
 
 [PART 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw1)
 
@@ -19,7 +20,7 @@ Hello friend. You've stumbled upon the readme for my coding bootcamp git reposit
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw2/Angular_Services_HW.pdf)
 
-##### PART 2 SIDE ASSIGNMENT - TOUR OF HEROES TUTORIAL APP
+##### ANGULAR PROJECT PART 2 SIDE ASSIGNMENT - TOUR OF HEROES TUTORIAL APP
 *[Live Project](https://gwyche.github.io/tour_of_heroes_angular_app/dashboard)*
 
 [TOUR OF HEROES EXERCISE FROM ANGULAR.IO](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/Hero_Game/angular-tour-of-heroes)
@@ -35,12 +36,14 @@ PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/maste
 
 
 ### BOOTSTRAP & JQUERY ASSIGNMENT
+*[Live Site](https://gwyche.github.io/bootstrap_jquery_practice/)*
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/BootStrap%20and%20JQuery)
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/BootStrap%20and%20JQuery/bootstrap_project_homework.pdf)
 
 ### CSS ASSIGNMENT
+*[Live Site](https://gwyche.github.io/css_practice/)*
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/CSS_Homework)
 
